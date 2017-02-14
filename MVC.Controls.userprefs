@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MVC.Controls.Examples/MVC.Controls.Examples.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="monodevelop" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC.Controls/Grid/GridExtensions.cs">
+    <Files>
+      <File FileName="MVC.Controls/Grid/GridExtensions.cs" Line="112" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
